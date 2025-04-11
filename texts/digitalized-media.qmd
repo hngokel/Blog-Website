@@ -7,12 +7,11 @@ description: "Dijital platformlar, medya tüketimini ve içerik üretimini kökl
 page-layout: full
 categories: [news, posts, digital media]
 image: "/images/dijital-medya.jpg" 
-
 ---
 
-::::::::: {.content-visible when-format="html"}
-:::::::: {#mediaCarousel .carousel .slide data-bs-ride="carousel"}
-::::::: carousel-inner
+::::::::::::::: {.content-visible when-format="html"}
+:::::::::::::: {#mediaCarousel .carousel .slide data-bs-ride="carousel"}
+::::::::::::: carousel-inner
 ::: {.carousel-item .active}
 ![](/images/digitalized-media/1.jpg){.d-block .w-100 alt="Slide 1" style="height: 400px; object-fit: contain;" width="100%"}
 :::
@@ -32,17 +31,11 @@ image: "/images/dijital-medya.jpg"
 ::: carousel-item
 ![](/images/digitalized-media/5.jpg){.d-block .w-100 alt="Slide 5" style="height: 400px; object-fit: contain;" width="100%"}
 :::
-:::::::
+:::::::::::::
 
-<a class="carousel-control-prev" href="#mediaCarousel" role="button" data-bs-slide="prev">
-  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-  <span class="visually-hidden">Önceki</span>
-</a>
-<a class="carousel-control-next" href="#mediaCarousel" role="button" data-bs-slide="next">
-  <span class="carousel-control-next-icon" aria-hidden="true"></span>
-  <span class="visually-hidden">Sonraki</span>
-</a>
-::::::::
+<a class="carousel-control-prev" href="#mediaCarousel" role="button" data-bs-slide="prev"> [Önceki]{.visually-hidden} </a> <a class="carousel-control-next" href="#mediaCarousel" role="button" data-bs-slide="next"> [Sonraki]{.visually-hidden} </a>
+::::::::::::::
+:::::::::::::::
 
 Medyanın dijitalleşmesi, tüm sektörün işleyişini yeniden şekillendiriyor. Geleneksel medya yapıları yerini hızla dijital platformlara bırakırken, izleyicilerin ve içerik üreticilerinin etkileşim biçimleri de değişiyor. Bugün, **YouTube, TikTok, Spotify** gibi dijital platformlar, eğlence ve medya sektörünün dinamiklerini değiştiren önemli araçlar haline geldi. Bu değişiklik yalnızca içeriklerin nasıl üretildiğiyle ilgili değil, aynı zamanda içeriklerin nasıl tüketildiğiyle de ilgilidir. Bu yazıda, dijitalleşen medyanın içerik üreticileri ve izleyiciler üzerindeki etkilerini inceleyeceğiz.
 
@@ -90,10 +83,10 @@ Bu nedenle, **geleneksel medya kuruluşları dijitalleşmeye ayak uydurmak için
 
 ## Dijital Medya Platformlarının Küresel Kullanımı
 
-**İnternet Kullanıcı Sayısı:** 2022 Nisan ayı itibarıyla dünya genelinde 5 milyardan fazla insan internet kullanıcısıdır, bu da dünya nüfusunun yaklaşık %63'üne tekabül etmektedir.  
+**İnternet Kullanıcı Sayısı:** 2022 Nisan ayı itibarıyla dünya genelinde 5 milyardan fazla insan internet kullanıcısıdır, bu da dünya nüfusunun yaklaşık %63'üne tekabül etmektedir.\
 Kaynak: Survivor Dijital Pazarlama Ajansı
 
-**Sosyal Medya Kullanıcıları:** 2024 itibarıyla dünya genelinde 4.9 milyar kişi sosyal medya kullanmaktadır.  
+**Sosyal Medya Kullanıcıları:** 2024 itibarıyla dünya genelinde 4.9 milyar kişi sosyal medya kullanmaktadır.\
 Kaynak: İçerik Bulutu Akademi
 
 ## Türkiye'de Dijital Medya ve Sosyal Medya Kullanımı
@@ -104,15 +97,15 @@ Kaynak: İçerik Bulutu Akademi
 
 ## İçerik Üreticileri ve İzleyici Etkileşimi
 
-**İçerik Tüketimi:** Kullanıcılar, günlük ortalama 145 dakikalarını sosyal medyada geçirmektedirler.  
+**İçerik Tüketimi:** Kullanıcılar, günlük ortalama 145 dakikalarını sosyal medyada geçirmektedirler.\
 Kaynak: İçerik Bulutu Akademi
 
-**Kısa Video İçerikleri:** Kullanıcıların %66'sı kısa videoları, uzun olanlara göre 2.5 kat daha ilgi çekici bulmaktadır.  
+**Kısa Video İçerikleri:** Kullanıcıların %66'sı kısa videoları, uzun olanlara göre 2.5 kat daha ilgi çekici bulmaktadır.\
 Kaynak: İçerik Bulutu Akademi
 
 ## Dijital Platformların İzleyici Alışkanlıklarına Etkisi
 
-**Kişiselleştirilmiş İçerik:** Dijital platformlar, kullanıcı deneyimini artırmak amacıyla kişiselleştirilmiş içerik önerileri sunmaktadır.  
+**Kişiselleştirilmiş İçerik:** Dijital platformlar, kullanıcı deneyimini artırmak amacıyla kişiselleştirilmiş içerik önerileri sunmaktadır.\
 Kaynak: eramedia.com.tr
 
 **İzleme Alışkanlıkları:** İzleyiciler, dijital platformlarda içerikleri istedikleri zaman ve mekânda tüketebilme esnekliğine sahiptirler, bu da geleneksel medya tüketim alışkanlıklarını değiştirmektedir.
@@ -128,5 +121,6 @@ Dijital medya, **izleyicilere özgürlük, kişiselleştirme ve hız sağlarken*
 ### Kaynaklar
 
 -   [E Haber Ajansı](https://www.ehaberajansi.com.tr/haber/dijitallesme-ve-yeni-medyanin-gelecegi-ele-aliniyor-h14117.html)
--   [Enterprsie|next](https://epnext.com/yapay-zeka-ve-teknoloji-iyi-gazetecilerin-yerini-alamaz/)
+-   [Enterprsie\|next](https://epnext.com/yapay-zeka-ve-teknoloji-iyi-gazetecilerin-yerini-alamaz/)
 -   [Mediatrend](https://mediatrend.mediamarkt.com.tr/yapay-zeka-gazetecilerin-yerini-alabilir-mi/)
+::::::::::
