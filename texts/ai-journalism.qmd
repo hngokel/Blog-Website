@@ -1,0 +1,156 @@
+---
+title: "Yapay Zeka ve Habercilik: Gazetecilerin Yerini Robotlar mı Alacak?"
+author: "Hatice Nüveyba Gökel"
+date: "2025-03-29"
+output: html_document
+description: "Yapay zeka, haber üretiminde büyük bir rol oynuyor ancak gazeteciliğin etik ve insani boyutlarını tamamen devralabilir mi?"
+page-layout: full
+categories: [news, posts, ai]
+image: "/images/ai.webp"
+---
+
+:::::::::::::::: {.content-visible when-format="html"}
+::::::::::::::: {#mediaCarousel .carousel .slide data-bs-ride="carousel"}
+:::::::::::::: carousel-inner
+::: {.carousel-item .active}
+![](/images/ai/1.jpg){.d-block .w-100 alt="Slide 1" style="height: 400px; object-fit: contain;" width="100%"}
+:::
+
+::: carousel-item
+![](/images/ai/2.jpg){.d-block .w-100 alt="Slide 2" style="height: 400px; object-fit: contain;" width="100%"}
+:::
+
+::: carousel-item
+![](/images/ai/3.jpg){.d-block .w-100 alt="Slide 3" style="height: 400px; object-fit: contain;" width="100%"}
+:::
+
+::: carousel-item
+![](/images/ai/4.jpg){.d-block .w-100 alt="Slide 4" style="height: 400px; object-fit: contain;" width="100%"}
+:::
+
+::: carousel-item
+![](/images/ai/5.jpg){.d-block .w-100 alt="Slide 5" style="height: 400px; object-fit: contain;" width="100%"}
+:::
+
+::: carousel-item
+![](/images/ai/6.jpg){.d-block .w-100 alt="Slide 6" style="height: 400px; object-fit: contain;" width="100%"}
+:::
+
+::: carousel-item
+![](/images/ai/7.jpg){.d-block .w-100 alt="Slide 7" style="height: 400px; object-fit: contain;" width="100%"}
+:::
+
+::: carousel-item
+![](/images/ai/8.jpg){.d-block .w-100 alt="Slide 8" style="height: 400px; object-fit: contain;" width="100%"}
+:::
+
+::: carousel-item
+![](/images/ai/9.jpg){.d-block .w-100 alt="Slide 9" style="height: 400px; object-fit: contain;" width="100%"}
+:::
+
+::: carousel-item
+![](/images/ai/10.jpg){.d-block .w-100 alt="Slide 9" style="height: 400px; object-fit: contain;" width="100%"}
+:::
+
+::: carousel-item
+![](/images/ai/11.jpg){.d-block .w-100 alt="Slide 9" style="height: 400px; object-fit: contain;" width="100%"}
+:::
+::::::::::::::
+
+<a class="carousel-control-prev" href="#mediaCarousel" role="button" data-bs-slide="prev">
+  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+  <span class="visually-hidden">Önceki</span>
+</a>
+<a class="carousel-control-next" href="#mediaCarousel" role="button" data-bs-slide="next">
+  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+  <span class="visually-hidden">Sonraki</span>
+</a>
+:::::::::::::::
+::::::::::::::::
+
+Teknolojinin gelişmesiyle birlikte yapay zeka (YZ) hayatın birçok alanında önemli değişimlere yol açıyor. Bu değişimlerden biri de habercilik alanında yaşanıyor. Geleneksel gazetecilik, araştırmaya ve insana dayalı bir meslek olarak kabul edilse de, yapay zeka destekli sistemler artık haber üretme sürecinde etkin bir rol oynuyor. Peki, yapay zeka gerçekten gazetecilerin yerini alabilir mi?
+
+## Yapay Zeka ile Haber Üretimi
+
+Günümüzde birçok medya kuruluşu, haber üretim süreçlerini hızlandırmak ve içeriklerin doğruluğunu artırmak için yapay zekadan faydalanıyor. Yapay zekanın gazetecilikte nasıl kullanıldığına dair bazı örnekler şunlardır:
+
+-   **Otomatik Haber Yazımı:** Associated Press ve Reuters gibi büyük haber ajansları, finans ve spor haberlerini otomatik olarak yazan yapay zeka sistemleri kullanıyor.
+-   **Veri Analizi ve Haber Tespiti:** YZ, sosyal medya platformlarını ve interneti tarayarak önemli olayları belirleyebilir ve haber değeri taşıyan konuları tespit edebilir.
+-   **Deepfake ve Sahte Haberlerle Mücadele:** Yapay zeka, sahte haberleri tespit etmek ve doğruluk kontrolleri yapmak için kullanılıyor.
+-   **Kişiselleştirilmiş Haber Deneyimi:** Kullanıcıların ilgi alanlarına göre haberleri sıralayan algoritmalar, kişiselleştirilmiş içerik sunuyor.
+
+## Yapay Zekanın Sınırlamaları
+
+Her ne kadar yapay zeka haber üretiminde büyük kolaylık sağlasa da, insan gazeteciliğinin yerini tamamen alması pek mümkün görünmüyor. Bunun nedenleri arasında şunlar yer alıyor:
+
+-   **Analiz ve Yorumlama Eksikliği:** Yapay zeka, verileri işleyebilir ancak olayları insan bakış açısıyla yorumlayamaz.
+-   **Duygusal ve Etik Değerlendirmeler:** Gazetecilik yalnızca bilgi aktarmak değil, aynı zamanda etik ve insani değerler üzerine kurulu bir meslek dalıdır.
+-   **Özgün ve Derinlemesine İçerik Üretimi:** Araştırmacı gazetecilik, yaratıcı yazım ve derinlemesine analizler insan odaklı olduğu için yapay zeka bu alanda yetersiz kalabilir.
+
+## Yapay Zekanın Haberciliğe Katkıları
+
+Yapay zekanın medya sektöründe yarattığı dönüşüm, yalnızca haber üretimini değil, aynı zamanda haberin sunulma biçimini de etkiliyor. Özellikle, hızlı ve doğru bilgi aktarımı, günümüz dijital çağında oldukça önemli hale geldi. YZ algoritmaları, geleneksel gazeteciliğin yerini almayı değil, onu geliştirmeyi amaçlıyor.
+
+-   **Hızlı Tepki Süreleri:** Özellikle acil durumlarda ve gelişen olaylar karşısında, yapay zeka sistemleri insan gazetecilerden çok daha hızlı bir şekilde içerik oluşturabilir.
+-   **Veri Tabanlı Haberler:** Yapay zeka büyük veri setlerini işleyip analiz edebilir, ancak bu veriler genellikle yoruma dayalı değildir.
+-   **Kapsayıcılık ve Erişilebilirlik:** Yapay zeka destekli araçlar, çeşitli dil seçenekleriyle içerik üretebilir ve farklı kültürel ve sosyal gruplara hitap eden içerikler oluşturabilir.
+
+## Yapay Zeka ve Etik Sorunlar
+
+Ancak, yapay zekanın kullanımı beraberinde bazı etik soruları da getiriyor. Habercilik, yalnızca doğru bilgiyi aktarmak değil, aynı zamanda toplumsal sorumluluk taşıyan bir meslek dalıdır.
+
+-   **Özelleştirilmiş Haberler ve Balonlar:** Yapay zeka algoritmalarının sunduğu kişiselleştirilmiş içerikler, haber balonları ya da "echo chamber" etkisi yaratabilir.
+-   **Sahte Haber ve Manipülasyon:** YZ, sahte haberleri tespit etmekte faydalı olsa da, aynı zamanda deepfake gibi teknolojilerle gerçek dışı içerikler üretmek için de kullanılabilir.
+-   **Gazetecilik Etiği ve İnsan Faktörü:** İnsan gazetecilerin, olayların toplumsal ve etik bağlamlarını analiz edebilmesi, yapay zekanın yetersiz kaldığı bir noktadır.
+
+## Gelecekte Yapay Zeka ve İnsan Gazeteciler Arasındaki İşbirliği
+
+Gelecekte, yapay zeka ve insan gazetecilerinin birlikte çalıştığı bir medya ortamı daha fazla yaygınlaşacaktır.
+
+-   **Veri Tabanlı Araştırmalar:** Yapay zeka büyük veri kümelerini inceleyebilir, ancak final karar insan gazetecinin analizine dayanacaktır.
+-   **Haberin İnsan Dokunuşu:** İnsan gazetecilerin yeri, yalnızca teknik değil, aynı zamanda insani bağlamlarla da ilişkilidir.
+
+## Yapay Zekanın Habercilikteki Uygulamaları
+
+**Otomatik Haber Üretimi**
+
+Yapay zeka, spor, hava durumu, deprem gibi doğal afetler, borsa ve ekonomiyle ilgili verileri kısa sürede bilgilendirici haber metinlerine dönüştürebilmektedir. Bu sayede rutin haberler otomatik olarak ve insan müdahalesi olmadan oluşturulabilmektedir.
+
+**Ses Tanıma ve Röportaj Analizi**
+
+Yapay zeka, röportajların otomatik olarak yazıya dökülmesi ve analiz edilmesi konusunda gazetecilere yardımcı olmaktadır. Bu sayede, röportaj metinlerinden anahtar kelimeler, duygusal tonlar ve diğer önemli bilgiler kolaylıkla çıkarılabilmektedir.
+
+## Türkiye'de Yapay Zeka Kullanımı
+
+**Girişimlerde Yapay Zeka Kullanımı**
+
+2023 yılında Türkiye'deki girişimlerin %5,5'i yapay zeka teknolojilerinden en az birini kullanırken, 2024 yılında bu oran %4,4'e düşmüştür.
+
+**Yapay Zeka Girişimleri**
+
+Türkiye Yapay Zeka İnisiyatifi (TRAI) Girişimler Haritası'na göre, Türkiye'de yapay zeka alanında faaliyet gösteren toplam 379 girişim bulunmaktadır.
+
+## Yapay Zekanın Gazetecilikteki Etkileri
+
+**Verimlilik Artışı**
+
+Yapay zeka, veri toplama, analiz etme ve raporlama gibi görevleri otomatikleştirerek gazetecilerin zamanını ve kaynaklarını önemli ölçüde tasarruf etmelerini sağlamaktadır.
+
+**Etik ve Editoryal Sorumluluklar**
+
+Yapay zekanın habercilikte kullanımı, editoryal ve etik sorumlulukları artırmaktadır. Yapay zekanın gelecekteki etkisi belirsiz olmakla birlikte, gazeteciliğin nasıl yapıldığına ve ne şekilde tüketildiğine dair geniş kapsamlı bir etkiye sahip olma potansiyeli bulunmaktadır.
+
+## Sonuç
+
+Sonuç olarak, yapay zeka habercilikte büyük bir devrim yaratma potansiyeline sahipken, tamamen gazetecilerin yerini alması pek mümkün görünmemektedir. İnsan gazetecilerin etik değerleri ve toplumsal sorumlulukları, yapay zekanın sağlayacağı hız ve verimliliği tamamlayan önemli faktörlerdir. Gelecekte, yapay zekanın gazeteciliği destekleyen bir araç olarak kullanılması, sektörü daha verimli, hızlı ve erişilebilir hale getirecektir.
+
+# Kaynaklar
+
+-   [Newslab Turkey](https://www.newslabturkey.org/2023/11/03/yapay-zeka-ve-gazetecilik-gelecekte-gazetecilere-yer-var-mi/?utm_source=chatgpt.com)
+-   [Vizyoner Genç](https://vizyonergenc.com/icerik/yapay-zeka-ve-degisen-gazetecilik-pratikleri?utm_source=)
+-   [Hackernoon](https://hackernoon.com/lang/tr/bizi-kaliteli-gazetecilik-%C3%A7a%C4%9F%C4%B1na-ta%C5%9F%C4%B1yabilir)
+-   [NewsLab Türkiye](https://www.newslabturkey.org/2023/11/03/yapay-zeka-ve-gazetecilik-gelecekte-gazetecilere-yer-var-mi/?utm_source=)
+-   [TÜİK Veri Portalı](https://data.tuik.gov.tr/Bulten/Index?p=Girisimlerde-Bilisim-Teknolojileri-Kullanim-Arastirmasi-2024-53446&utm_source=)
+-   [Türkiye Yapay Zeka İnisiyatifi](https://turkiye.ai/girisimler/?utm_source=)
+-   [Sosyalkafa](https://sosyalkafa.net/2024/07/10/haberciler-icin-yapay-zeka-yapay-zeka-ve-gazeteciligin-gelecegi/?utm_source=)
+-   [Journo](https://journo.com.tr/gazetecilik-yapay-zeka?utm_source=)

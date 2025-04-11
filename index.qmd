@@ -1,0 +1,11 @@
+---
+title: ""
+listing:
+  contents: texts
+  sort: "date desc"
+  type: default
+  sort-ui: true
+  filter-ui: true
+  fields: [date, title, description, author, image]
+page-layout: full
+---

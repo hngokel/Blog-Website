@@ -1,0 +1,183 @@
+---
+title: "Dijital Medyanın Yükselişi ve Geleneksel Medyanın Geleceği"
+author: "Hatice Nüveyba Gökel"
+date: "2025-03-30"
+output: html_document
+description: "Geleneksel medya, dijitalleşmenin hızla ilerlediği günümüzde büyük bir dönüşüm geçiriyor; bu süreçte rekabet ve adaptasyon kritik hale geliyor."
+page-layout: full
+categories: [news, posts, digital media]
+image: "/images/dijital-geleneksel.jpg"
+---
+
+::::::::: {.content-visible when-format="html"}
+:::::::: {#mediaCarousel .carousel .slide data-bs-ride="carousel"}
+::::::: carousel-inner
+::: {.carousel-item .active}
+![](/images/digital-media-future/1.jpg){.d-block .w-100 alt="Slide 1" style="height: 400px; object-fit: contain;" width="100%"}
+:::
+
+::: carousel-item
+![](/images/digital-media-future/2.jpg){.d-block .w-100 alt="Slide 2" style="height: 400px; object-fit: contain;" width="100%"}
+:::
+
+::: carousel-item
+![](/images/digital-media-future/3.jpg){.d-block .w-100 alt="Slide 3" style="height: 400px; object-fit: contain;" width="100%"}
+:::
+
+::: carousel-item
+![](/images/digital-media-future/4.jpg){.d-block .w-100 alt="Slide 4" style="height: 400px; object-fit: contain;" width="100%"}
+:::
+
+::: carousel-item
+![](/images/digital-media-future/5.jpg){.d-block .w-100 alt="Slide 5" style="height: 400px; object-fit: contain;" width="100%"}
+:::
+
+::: carousel-item
+![](/images/digital-media-future/6.jpg){.d-block .w-100 alt="Slide 6" style="height: 400px; object-fit: contain;" width="100%"}
+:::
+
+::: carousel-item
+![](/images/digital-media-future/7.jpg){.d-block .w-100 alt="Slide 7" style="height: 400px; object-fit: contain;" width="100%"}
+:::
+
+::: carousel-item
+![](/images/digital-media-future/8.jpg){.d-block .w-100 alt="Slide 8" style="height: 400px; object-fit: contain;" width="100%"}
+:::
+
+::: carousel-item
+![](/images/digital-media-future/9.jpg){.d-block .w-100 alt="Slide 9" style="height: 400px; object-fit: contain;" width="100%"}
+:::
+
+::: carousel-item
+![](/images/digital-media-future/10.jpg){.d-block .w-100 alt="Slide 9" style="height: 400px; object-fit: contain;" width="100%"}
+:::
+
+::: carousel-item
+![](/images/digital-media-future/11.jpg){.d-block .w-100 alt="Slide 9" style="height: 400px; object-fit: contain;" width="100%"}
+:::
+
+::: carousel-item
+![](/images/digital-media-future/12.jpg){.d-block .w-100 alt="Slide 9" style="height: 400px; object-fit: contain;" width="100%"}
+:::
+
+:::::::
+
+<a class="carousel-control-prev" href="#mediaCarousel" role="button" data-bs-slide="prev">
+  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+  <span class="visually-hidden">Önceki</span>
+</a>
+<a class="carousel-control-next" href="#mediaCarousel" role="button" data-bs-slide="next">
+  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+  <span class="visually-hidden">Sonraki</span>
+</a>
+::::::::
+:::::::::
+
+Günümüzde medya tüketim alışkanlıkları büyük bir değişim geçiriyor. Geleneksel medya araçları olan televizyon, radyo ve basılı gazeteler, dijital medyanın yükselişiyle birlikte giderek daha az tercih edilir hale geliyor. Dijitalleşme süreci, haberlere ve eğlence içeriklerine erişim şeklimizi dönüştürerek, daha hızlı ve etkileşimli bir medya ortamı sunuyor.
+
+## Dijital Medyanın Yükseliş Nedenleri
+
+**Erişim Kolaylığı**
+
+Akıllı telefonlar, televizyonlar, tabletler ve bilgisayarlar sayesinde insanlar istedikleri içeriğe ve habere anında ulaşabiliyorlar.
+
+**Hızlı Güncellenme**
+
+Geleneksel medyaya kıyasla, dijital medya içerikleri anında güncellenebilir ve değişen gündeme hızlıca uyum sağlayabilir.
+
+**Etkileşimli İçerik**
+
+Sosyal medya platformları, okuyucuların haberler hakkında yorum yapmasına, paylaşmasına ve tartışmasına ilgi ve olanak tanır.
+
+**Kişiselleştirme**
+
+Algoritmalar, kullanıcıların ilgi alanlarına uygun içerikleri öne çıkararak daha kişisel bir deneyim sunar.
+
+## Geleneksel Medyanın Karşılaştığı Zorluklar
+
+**Azalan Basılı Yayınlar**
+
+Gazetelerin tirajları düşerken, birçok medya kuruluşu dijital platformlara yöneliyor.
+
+**TV ve Radyo Tüketiminin Değişimi**
+
+Genç nesiller, televizyon yerine YouTube ve Netflix gibi dijital platformları tercih ediyor.
+
+**Reklam Gelirlerinin Dijitale Kayması**
+
+Dijital reklamcılık, hedeflenebilir ve ölçülebilir olması nedeniyle geleneksel reklamcılığın önüne geçiyor.
+
+## Teknolojik Gelişmeler ve Dijitalleşme
+
+Akıllı telefonlar, tabletler ve dizüstü bilgisayarlar, insanların haberleri ve içerikleri anlık olarak tüketmesini sağladı. Artık insanlar sabah gazetelerini alıp televizyonu açmıyorlar, bunun yerine sosyal medya platformları, haber siteleri ve video akış servisleri üzerinden içerik tüketiyorlar.
+
+**Erişilebilirlik ve Hız**
+
+Dijital medya, içeriğin hızlı bir şekilde yayılmasını sağlıyor. Artık bir haberin duyulması birkaç dakika içinde gerçekleşebiliyor. Sosyal medya sayesinde, bir olayın gelişmesiyle ilgili bilgiler dünya genelinde anında paylaşılabiliyor.
+
+**Kişiselleştirilmiş İçerik**
+
+Dijital medya, kullanıcıların ilgi alanlarına göre içerik sunar. Yani, bireyler kendilerine uygun haberleri ve içerikleri daha kolay bir şekilde bulabiliyor.
+
+**Düşük Maliyet**
+
+Dijital medya içerik üretimi, geleneksel medyaya kıyasla çok daha düşük maliyetlere sahiptir. Dijital platformlar, büyük stüdyolar ve ekipmanlar gerektirmeden içerik üretimine olanak tanır.
+
+## Geleneksel Medyanın Geleceği
+
+Geleneksel medyanın geleceği, dijitalleşme ile şekillenecek gibi görünüyor. Birçok geleneksel medya kuruluşu, dijital platformlarda varlık göstererek hayatta kalmaya çalışıyor.
+
+Ancak, dijital dönüşüm sadece medya kuruluşlarının içerik sunma biçimini değiştirmekle kalmıyor; aynı zamanda gazetecilik etiği, habercilik standartları ve toplumla iletişim gibi önemli soruları da gündeme getiriyor. Dijital medya, hızlı ve kolay bilgi sunma imkanı sağlasa da, bu bilgilerin doğruluğu ve güvenilirliği konusunda daha fazla denetim gerektiriyor.
+
+## Gelecek Senaryoları
+
+Geleneksel medya tamamen yok olacak mı? Bu sorunun kesin bir yanıtı olmasa da, birçok uzman, basılı yayınların ve televizyonun dijitalleşmeye ayak uydurarak varlığını sürdüreceğini düşünüyor. Birçok gazete artık sadece çevrimiçi aboneliklerle yayın yapıyor. Ayrıca, televizyon kanalları da dijital platformlarda içeriklerini sunarak yeni kitlelere ulaşıyor.
+
+Dijital medyanın yükselişi, geleneksel medyanın tamamen sona ereceği anlamına gelmese de, büyük bir dönüşüm sürecinin içinde olduğumuz kesin. Medya kuruluşları bu değişime ayak uydurarak dijitalleşmeye yatırım yapmalı ve yeni medya trendlerini yakından takip etmelidir.
+
+## Türkiye'de Medya Tüketim Oranları (2025)
+
+Bu pasta grafiği, Türkiye'de 2025 yılı itibarıyla farklı medya türlerinin günlük ortalama tüketim sürelerini göstermektedir:
+
+-   **Televizyon**: %35\
+-   **İnternet Haber Siteleri**: %25\
+-   **Sosyal Medya**: %30\
+-   **Basılı Gazeteler**: %10
+
+Bu veriler, dijital medyanın toplam medya tüketiminde önemli bir paya sahip olduğunu, ancak televizyonun hâlâ en çok tüketilen medya türü olduğunu göstermektedir.
+
+## Türkiye'de Sosyal Medya Platformlarının Haber Kaynağı Olarak Kullanımı (2025)
+
+Aşağıdaki çubuk grafiği, Türkiye'de sosyal medya kullanıcılarının haberleri en sık takip ettiği platformları ve bu platformların kullanım yüzdelerini göstermektedir:
+
+-   **Instagram**: %70\
+-   **YouTube**: %65\
+-   **Twitter**: %50\
+-   **Facebook**: %45
+
+Bu veriler, Instagram ve YouTube'un haber kaynağı olarak en çok tercih edilen platformlar olduğunu göstermektedir.
+
+## Türkiye'de Geleneksel ve Dijital Medya Reklam Yatırımları (2020-2025)
+
+Bu çizgi grafiği, 2020-2025 yılları arasında Türkiye'de geleneksel medya (televizyon, radyo, basılı yayınlar) ve dijital medya (internet, sosyal medya) reklam yatırımlarının milyon TL cinsinden değişimini göstermektedir:
+
+| Yıl  | Geleneksel Medya (milyon TL) | Dijital Medya (milyon TL) |
+|------|------------------------------|---------------------------|
+| 2020 | 2.000                        | 1.500                     |
+| 2021 | 1.900                        | 1.800                     |
+| 2022 | 1.800                        | 2.200                     |
+| 2023 | 1.700                        | 2.600                     |
+| 2024 | 1.600                        | 3.000                     |
+| 2025 | 1.500                        | 3.500                     |
+
+Bu veriler, dijital medya reklam yatırımlarının yıllar içinde sürekli artış gösterdiğini, geleneksel medya reklam yatırımlarının ise azalma eğiliminde olduğunu ortaya koymaktadır.
+
+## Kaynaklar
+
+-   [E-Ticaret Marketing](https://www.eticaretmarketing.com/dijital-medyanin-buyumesi-ve-gelecegi/?utm_source=)
+-   [Digital Exchange](https://www.digitalexchange.com.tr/blog/sosyal-medya/geleneksel-medya-nedir?utm_source=)
+-   [Dr. Murad KARADUMAN](https://dergipark.org.tr/tr/download/article-file/725291)
+-   [Kofana Digital](https://www.linkedin.com/pulse/dijital-pazarlama-g%C3%BCndemi-2025-trendleri-kofanadigital-7knxf/)
+-   [Data TUIK](https://data.tuik.gov.tr/Search/Search?text=internet&utm_source=chatgpt.com)
+-   [Haber3](https://www.haber3.com/ekonomi/tuik-2025-yilinin-ilk-enflasyon-rakamlarini-acikladi-haberi-6216683?utm_source=)
+-   [Deloitte.](https://rd.org.tr/Assets/uploads/ff8df872-f133-4f12-9271-cf9733217c1a.pdf?utm_source=)

@@ -1,0 +1,19 @@
+/*-- scss:defaults --*/
+// Base document colors
+$body-bg: #2C2F34;
+$body-color: white;
+$link-color: #75AADB;
+
+.input-group-text{
+  background-color: #222 !important; /* Karanlık tema için arka plan */
+  color: white !important; /* Yazı rengini beyaz yap */
+}
+.dropdown-item:hover,
+.dropdown-item:focus {
+  background-color: #555 !important; // Hover efekti
+  color: #fff !important;
+}
+.nav-link:hover,
+.nav-link:focus{
+  color:#181818 !important;
+}

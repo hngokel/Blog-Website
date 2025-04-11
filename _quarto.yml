@@ -1,0 +1,43 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: ""
+  navbar:
+    left:
+      - href: index.qmd
+        text: "<img src='/images/logo.png' height='50' style='margin-right: 15px; vertical-align: middle;'>"
+      - text: "Yazılar"
+        menu:   # Alt menüler
+          - text: "Dijital Medyanın Geleceği"
+            href: texts/digital-media-future.qmd
+          - text: "Yapay Zeka ve Habercilik"
+            href: texts/ai-journalism.qmd
+          - text: "Sosyal Medyanın Haber Yayılmasındaki Rolü"
+            href: texts/social-media.qmd
+          - text: "Dijital Platformların Eğlence Sektörüne Etkisi"
+            href: texts/digital-platforms-entertainment.qmd
+          - text: "Dijitalleşen Medya"
+            href: texts/digitalized-media.qmd
+      - text: "Hakkımda"
+        href: about.qmd
+      - text: "Kaynaklar"
+        href: source.qmd
+    right:
+      - icon: twitter
+        href: "https://twitter.com/"
+      - icon: github
+        href: "https://github.com/"
+
+format:
+  html:
+    css: styles.css
+    theme:
+      light: cosmo
+      dark: [cosmo, theme-dark.scss]
+      
+editor: visual
+
+lang: tr
+
